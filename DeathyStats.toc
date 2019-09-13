@@ -1,0 +1,7 @@
+## Interface: 80200
+## Author: Nehdude
+## Title: DeathyStats
+## Notes: Gives you a "fun" statistic
+## SavedVariablesPerCharacter: deaths, deathsThisLevel, deathZones
+
+DeathyStats.lua
